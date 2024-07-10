@@ -1,0 +1,17 @@
+{
+  "name": "github-issue-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.45.0",
+    "allure-playwright": "^2.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "allure-commandline": "^2.29.0",
+    "typescript": "^5.5.3"
+  }
+}
