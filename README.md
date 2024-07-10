@@ -1,4 +1,5 @@
-##Запуск тестов
-1. npn i
-2. npx playwright test
-3. npx allure serve allure-results
+**Запуск тестов**
+1. git clone [e](https://github.com/Sparta16/vk_internship.git)
+2. npn i
+3. npx playwright test
+4. npx allure serve allure-results
